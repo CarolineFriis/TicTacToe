@@ -1,0 +1,29 @@
+h1 {
+    text-align: left;
+    padding-bottom: 0px;
+    padding-left: 200px;
+}
+
+body {
+    padding-left: 30px;
+    background-color: white;
+}
+
+th, td {
+    padding: 50px;
+    text-align: center;
+    vertical-align: middle;
+    border-collapse: collapse;
+    border: 3px solid white;
+    background-color: lightgreen;
+    color: white;
+}
+table {
+    font-size: 30px;
+}
+
+button {
+    background-color: lightgreen !important;
+    color: white !important;
+    border-color: white !important;
+}
